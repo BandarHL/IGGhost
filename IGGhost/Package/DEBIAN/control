@@ -1,0 +1,9 @@
+Package: com.BandarHL.IGGhost
+Name: IGGhost for instagram
+Depends: mobilesubstrate
+Version: 3
+Architecture: iphoneos-arm
+Description: Explore Instagram timeline without knowing photos and videos owners & Explore Instagram timeline without ADs
+Author: BandarHelal
+Section: Tweaks
+
